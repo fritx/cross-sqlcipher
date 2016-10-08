@@ -1,0 +1,17 @@
+{
+  "name": "cross-sqlcipher",
+  "version": "0.0.1",
+  "description": "Cross-platform encrypted sqlite3",
+  "keywords": [
+    "sqlite3",
+    "sqlite",
+    "sqlcipher",
+    "encrypt",
+    "cross"
+  ],
+  "repository": "git://github.com/fritx/cross-sqlcipher.git",
+  "optionalDependencies": {
+    "win-sqlcipher": "*",
+    "unix-sqlcipher": "*"
+  }
+}
